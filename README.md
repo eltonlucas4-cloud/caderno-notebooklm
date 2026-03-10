@@ -17,7 +17,5 @@ De início, optei por fazer a pergunta mais básica de todas que é, justamente,
 Fiz as perguntas da seguinte maneira:
 
 1ª Primeiramente, o que é déficit calórico?
-
 2ª Chat, informe-me em poucas palavras quais alimentos ajudam a manter a saciedade com poucas calorias.
-
 3ª Explique-me agora quais as maiores dificuldades que alguém que deseja optar pelo déficit calórico sofre.
